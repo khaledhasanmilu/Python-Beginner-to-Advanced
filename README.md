@@ -53,10 +53,10 @@ To get started, you will need to have Python installed on your machine. You can 
 
 This section contains projects to practice and solidify your Python skills:
 
-- **Project 1: Web Scraper**
-- **Project 2: Data Analysis with Pandas**
-- **Project 3: Flask Web Application**
-- **Project 4: Machine Learning Model with scikit-learn**
+- **Project 1: Loading**
+- **Project 2: Loading**
+- **Project 3: Loading**
+- **Project 4: Loading**
 
 ## Resources
 
