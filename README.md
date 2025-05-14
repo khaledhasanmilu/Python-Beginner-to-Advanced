@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledhasanmilu)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kh.milu338@gmail.com)
-[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-24292e?logo=github)](https://khaledhasan.netify.app)
+[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-24292e?logo=github)](https://khaledhasanmilu.netify.app)
 
 Welcome to the **Python Beginner to Advanced** repository! Whether you're just starting out or looking to master Python, this guide is your one-stop solution to go from **zero to hero** 💪 in Python programming.
 
