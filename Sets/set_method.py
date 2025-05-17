@@ -1,15 +1,18 @@
+#create a set
+setS = {1, 2, 3, 4}
+print("Original set:", setS)
 # Set methods
 print("\nSet Methods:")
 
 # Clear the set
-my_set.clear()
-print("After clearing:", my_set)
+setS.clear()
+print("After clearing:", setS)
 
 # Create a new set
 my_set = {1, 2, 3, 4, 5}
 
 # Copy the set
-copied_set = my_set.copy()
+copied_set = my_set.copy() 
 print("Copied set:", copied_set)
 
 # Discard an element (no error if not present)
@@ -24,3 +27,9 @@ print("Set after popping:", my_set)
 # Update the set with elements from another set
 my_set.update({6, 7, 8})
 print("After updating:", my_set)
+
+my_set.add(9)
+print("After adding 9:", my_set)
+
+print(setS.union({10, 11}))
+print("After union with {10, 11}:", my_set) 
